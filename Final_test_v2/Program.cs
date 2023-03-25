@@ -61,6 +61,7 @@ void PrintArray(string[] array)
 }
 
 
+
 string[] newString = InputArray();
 // PrintArray(newString);
 CreatNewArray(newString);
