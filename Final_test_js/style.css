@@ -1,0 +1,13 @@
+#myblock {
+    font: bold 25pt sans;
+    color: #0000ff;
+    width: 100%;
+    height: 200%;
+    background: rgba(0, 255, 4, 0.89);
+    border: solid 3px red;
+    border-radius: 20px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    text-align: center;
+}
